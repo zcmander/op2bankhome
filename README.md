@@ -21,13 +21,20 @@ Tästä muodostuu uusi tiedosto `converted.csv` ja tätä tiedostoa HomeBank suo
 
 ## 3. Tuo HomeBank sovellukseen tiedosto
 
-![Valitse "Tiedosto -> Import..."](Step6.PNG)
+![Valitse "Tiedosto -> Import..."](Step5.PNG)
 
-![Valitse "Tiedosto -> Import..."](Step7.PNG)
+ * Valitse tiedosto.
 
+![Valitse "Seuraava"](Step6.PNG)
+
+ * Valitse seuraava.
+
+![Valitse "Seuraava"](Step7.PNG)
+
+* Muista valita "Import this file into" kohtaan valita "<New account>" jos haluat tehdä tilit vuosittaisiksi.
 * Muista valita kohtaan "Päiväjärjestys" valinnaksi "y-m-d".
 
-![Valitse "Tiedosto -> Import..."](Step9.PNG)
+![Valitse "Toteuta"](Step8.PNG)
 
 * Ja valitse "Toteuta"
 
